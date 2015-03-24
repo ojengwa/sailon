@@ -180,4 +180,4 @@ See the [FAQ](https://github.com/remy/sailon/blob/master/faq.md) and please add 
  -->
 # License
 
-MIT [http://rem.mit-license.org](http://rem.mit-license.org)
+MIT [http://mit-license.org](http://rem.mit-license.org)
