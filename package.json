@@ -1,5 +1,5 @@
 {
-  "name": "Sailon",
+  "name": "sailon",
   "version": "0.0.1",
   "description": "Sailon is for use during the development of a sails app, It is much like nodemon for Node.js. Sailon watch the files in the directory in which sailon was started, and if any files change, sailon will automatically restart your node application.",
   "main": "index.js",
@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/andela-bojengwa/Sailon/issues"
   },
-  "homepage": "https://github.com/andela-bojengwa/Sailon"
+  "homepage": "https://github.com/andela-bojengwa/Sailon",
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "mocha": "^2.2.1"
+  }
 }
