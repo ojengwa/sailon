@@ -12,7 +12,7 @@ Sailon watch the files in the directory in which sailon was started, and if any 
 sailon does **not** require *any* changes to your code or method of development. sailon simply wraps your sails application and keeps an eye on any files that have changed. Remember that sailon is a replacement wrapper for `sails`, think of it as replacing the word "sails" on the command line when you run your script.
 
 [![npm version](https://badge.fury.io/js/sailon.svg)](http://badge.fury.io/js/sailon)
-[![Travis Status](https://travis-ci.org/remy/sailon.svg?branch=master)](https://travis-ci.org/remy/sailon)
+[![Build Status](https://travis-ci.org/andela-bojengwa/Sailon.svg)](https://travis-ci.org/andela-bojengwa/Sailon)
 
 # Installation
 
